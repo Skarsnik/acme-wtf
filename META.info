@@ -7,6 +7,6 @@
         "provides" : {
             "Acme::WTF" : "lib/Acme/WTF.pm6"
         },
-	depends : [ "Test::META" ],
+	"depends" : [ "Test::META" ],
         "source-url" : "git://github.com/Skarsnik/acme-wtf.git"
 }
